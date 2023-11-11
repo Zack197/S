@@ -1,5 +1,4 @@
-# Ethereum Keys
-
+# Ethereum key
 
 A common API for Ethereum key operations with pluggable backends.
 
